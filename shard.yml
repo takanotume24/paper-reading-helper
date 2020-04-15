@@ -1,0 +1,17 @@
+name: string-spliter
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  string-spliter:
+    main: src/string-spliter.cr
+
+dependencies:
+  clim:
+    github: at-grandpa/clim
+
+crystal: 0.34.0
+
+license: MIT
