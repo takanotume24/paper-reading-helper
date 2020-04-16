@@ -1,6 +1,5 @@
-# string-spliter
-
-TODO: Write a description here
+# paper-reading-helper
+This is a tool to convert the text file of your paper into a format suitable for translation sites if you need translation when reading English papers.
 
 ## Installation
 
