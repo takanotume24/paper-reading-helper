@@ -1,12 +1,12 @@
-name: string-spliter
+name: paper-reading-helper
 version: 0.1.0
 
 authors:
   - your-name-here <your-email-here>
 
 targets:
-  string-spliter:
-    main: src/string-spliter.cr
+  paper-reading-helper:
+    main: src/paper-reading-helper.cr
 
 dependencies:
   clim:
