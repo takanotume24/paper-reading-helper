@@ -4,19 +4,22 @@ TODO: Write a description here
 
 ## Installation
 
-TODO: Write installation instructions here
+```
+git pull https://github.com/takanotume24/paper-reading-helper.git
+cd paper-reading-helper
+make install
+```
 
 ## Usage
-
-TODO: Write usage instructions here
-
+```
+$ paper-reading-helper -i [NO_FOMATTED_FILE_PATH] -o [OUTPUT_FILE_PATH]
+```
 ## Development
 
-TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/string-spliter/fork>)
+1. Fork it (<https://github.com/takanotume24/paper-reading-helper/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -24,4 +27,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-name-here](https://github.com/your-github-user) - creator and maintainer
+- [takanotume24](https://github.com/takanotume24) - creator and maintainer
